@@ -49,6 +49,11 @@
 
 <img src="IMAGES/5.png" alt="five">
 
+<p>These online tests help to give a further and more in depth look at some of my personality traits. For example both my tests were leaning more to the introverted side of the spectrum. I found it interesting to know what type of learner I am and what kind of learning I work well with. These tests mean a good deal to me, helping to learn a bit more about myself and what kind of person I am. Some people may take this test very literally and some people may take them with a grain of salt. I believe that my results were for the most part pretty correct to what I or others may perceive my personality traits to be like. Therefore meaning to me a somewhat literal perception of my personal traits which help me understand what type of person I am.<p>
+
+<p>When looking at these results and reflecting on how they compare with working in a team I believe there could be some room for improvement. This is because on the personality tests I resulted in a more withdrawn introverted personality. Meaning I don’t enjoy being the center of attention. This may affect how I work in a group, for example I may voice my opinions over others in a large group scenario and therefore not get my ideas out. Although my results were introverted it also showed that I was genuinely interested in other people and engaging with them. This means I will have strong engagement when working with others in my team. <p>
+  
+<p>I should take this into account when forming a team by better preparing myself for social group situations. I could make my work in a team better by opening up a little bit more and making sure to engage socially with all my team members, building relationships with them. Possibly finding other members that are more on the extroverted side to help synergise and bring out some more social engagement and interaction.<p>
 
   
 
