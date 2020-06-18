@@ -1,6 +1,8 @@
 # Assessment1 
+<img src="IMAGES/snowboard.png" alt="snowboard" width="500" height="333">
 
 <html>
+
 <body>
 
 <h1 style="border: 2px solid Tomato;">PERSONAL BACKROUND</h1>
