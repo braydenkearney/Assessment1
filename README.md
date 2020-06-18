@@ -104,6 +104,13 @@ Another skill required is clean coding and it is very important to understand su
 <p>If SkaterMate is successful, there will be many benefits specifically to the skateboard community worldwide. People that are new to skateboarding and want to learn will have an app to help them and have a friendly introduction to the intimidating skateboard community. Talented and experienced skateboarders will have a platform to get their skateboard content and tutorials out there. SkaterMate is also significant to the skating world as nothing similar has been created with the aim of helping the skateboarding community. It is aimed within a market that is often overlooked, therefore the success of the app will aid an overlooked community.<p>
   
 
+
+<h1 style="border: 2px solid Tomato;">BIBLIOGRAPHY</h1>
+<p>[1] MDN Web Docs. 2020. Operator Precedence. [online] Available at: <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence> [Accessed 14 June 2020].<p>
+
+<p>[2] Skills Portal. 2020. 7 Must Have Skills To Develop Killer Apps. [online] Available at: <https://www.skillsportal.co.za/content/7-must-have-skills-develop-killer-apps> [Accessed 18 June 2020].<p>
+  
+
   
 
   
