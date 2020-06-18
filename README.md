@@ -1,6 +1,6 @@
 # Assessment1 
 <img src="IMAGES/snowboard.png" alt="snowboard" width="500" height="333">
-
+<body bgcolor= "gray">
 <html>
 
 <body>
