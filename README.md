@@ -76,11 +76,26 @@
   
  <p>The map icon will open up a map of the area nearby and will use location services. The map will reveal skate spots, skateparks and skate shops that are pinned onto the map. These pins will have a tappable feature that will open up useful information related to what they click on. Blue pins will be local skate shops, green pins will be skate spots and pink pins will be skateparks.<p>
   
-<img src="IMAGES/map.png" alt="maps" 
+<img src="IMAGES/map.png" alt="maps">
 
 <p>The shop icon will open up to a different scrollable feed that will display links to different online stores. It will also show products available at their local skate shops. <p>
   
-  <img src="IMAGES/shop.png" alt="shops" 
+<img src="IMAGES/shop.png" alt="shops">
+ 
+<p style="color:white;">Stamps, stamping:</p>
+<p>The stamping feature is a technique used to identify specific skateboard tricks. When a specific trick is performed in a video, the creator will ‘stamp’ all tricks displayed. Therefore when another user searches for a specific trick, all videos with this identified stamp will appear.<p>
+  
+<p style="color:white;">Pins, pin, pinned:</p>
+<p>The pin feature is a built in part of the map feature. Users will have the option to ‘drop a pin’ on a certain location of the map and leave a description specific to that location.<p>
+  
+<p style="color:white;">Location services:</p>
+<p>When users open the map feature an optional pop up will open for them to select whether they wish to allow the apps access to their personal location. If users chose to decline the option the map will still be available with the pins.<p>
+  
+
+  
+
+  
+
   
 
 
