@@ -25,11 +25,11 @@
 <h1 style="border:2px solid Pink;">IDEAL JOB</h1>
 
 <p>The job I found is an IT security specialist based where I live, which I found on Indeed.<p>
-  
-<img src="IMAGES/it.png" alt="job" width="300" height="333">
-
-
-
-
 </body>
 </html>
+
+<img src="IMAGES/it1.png" alt="job" width="300" height="333">
+
+
+
+
