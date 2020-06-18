@@ -39,6 +39,8 @@
 <h1 style="border:2px solid Green;">PERSONAL PROFILE</h1>
 <p>Myers Briggs test:<p>
 
+<img src="IMAGES/myersTest.png" alt="test" width="300" height="333">
+
 
 
 
