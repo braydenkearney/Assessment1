@@ -75,8 +75,12 @@
 <p style="color:white;">Layout:</p><p>Each of these three features will be broken up into sections of the app that users can navigate through. When a user opens SkaterMate the content page will be displayed and will act as a homepage. This section will be split into two parts; the regular skateboard content feed and skateboard tutorial feed. There will be two tappable options at the top of the content feed called ‘skateboard tutorials’ and ‘skateboard clips’. Users will be able to scroll through a feed of videos and open the videos they want to watch. The other two features will sit in each of the bottom corners of the content screen. Users will have the option to tap on a map icon in the bottom left or a shop icon in the bottom right.<p>
   
  <p>The map icon will open up a map of the area nearby and will use location services. The map will reveal skate spots, skateparks and skate shops that are pinned onto the map. These pins will have a tappable feature that will open up useful information related to what they click on. Blue pins will be local skate shops, green pins will be skate spots and pink pins will be skateparks.<p>
+  
+<img src="IMAGES/map.png" alt="maps" 
 
 <p>The shop icon will open up to a different scrollable feed that will display links to different online stores. It will also show products available at their local skate shops. <p>
+  
+  <img src="IMAGES/shop.png" alt="shops" 
   
 
 
