@@ -1,7 +1,6 @@
 # Assessment1 
 
 <html>
-![](86410007_844972215974179_7661345388246335488_n.jpg)
 <body>
 
 <h1 style="border: 2px solid Tomato;">PERSONAL BACKROUND</h1>
