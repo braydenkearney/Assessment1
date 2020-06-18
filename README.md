@@ -25,11 +25,19 @@
 <h1 style="border:2px solid Pink;">IDEAL JOB</h1>
 
 <p>The job I found is an IT security specialist based where I live, which I found on Indeed.<p>
-</body>
-</html>
+
 
 <img src="IMAGES/it1.png" alt="job" width="300" height="333">
+<p>An IT security specialist’s main job is to defend an organization's information systems. This can include tasks like preventing cyber attacks by installing security software, monitoring and protecting against security breaches and countering cyber attacks. One of the reasons this type of position seems appealing to me is because during this pandemic and currently being not employed, it has really made me question what work is essential. I believe that cyber security will always be something that is essential and will always have a demand from organizations. Another key reason is that cyber security is in high demand across all organizations from; corporations, government agencies, schools, universities and  medical practices. In today's society with IT growing everyday and storage of data in the cloud becoming more popular I feel that cyber security is more important than ever.<p>
+  
+<p>To become an IT security specialist it is required that a student has studied cyber security and IT skills that include; IT fundamentals, cloud security, cryptography, network security, database security, ethics for IT professionals, and project management. It is also important that they understand programming languages such as C, C++, Java, and PHP. The qualifications include at least Bachelor's level or higher qualification in Information Technology and Formal IT Security qualifications recognised by the Australia Computer Society. As well as all this, most employers require that you have problem solving skills, critical thinking skills and communication skills. This is because security specialist’s must explain complex IT issues in basic terms to help managers make decisions.<p>
+
+<p>Currently in relation to IT I have very basic skills and experience and no qualifications. My experience in IT comes from many years of using the devices I own such as; laptops, Iphones and gaming devices. This experience is mostly only handy for my everyday leisure. Some basic IT skills that I have self taught are in video editing. I have learnt skills such as; cutting, cropping, speed editing, sound editing, transitional editing, importing and exporting.<P>
+
+<p>I plan to obtain the skills needed by passing my current two courses Introduction to Programming and Introduction to IT. Then I plan to continue on my path towards obtaining my bachelor of IT. I also plan on doing a more indepth course focused on cyber security.<p>
 
 
+</body>
+</html>
 
 
