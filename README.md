@@ -91,6 +91,20 @@
 <p style="color:white;">Location services:</p>
 <p>When users open the map feature an optional pop up will open for them to select whether they wish to allow the apps access to their personal location. If users chose to decline the option the map will still be available with the pins.<p>
   
+<h2 style=" 2px solid white; color:white;">Tools and Technologies</h2>
+<p>After some research on the software needed to develop an app, it became apparent that there is a large variety of computer software available to use. The software that would be suited best to develop SkaterMate is ‘Flutter’. Created by Google; Flutter is a UI toolkit for building applications for mobile, web and desktop from a single codebase. Flutter offers a feature called ‘hot reload’ which helps you quickly and easily experiment, build UIs, add features, and fix bugs faster. This feature works by “injecting updated source code files into the running Dart Virtual Machine (VM). After the VM updates classes with the new versions of fields and functions, the Flutter framework automatically rebuilds the widget tree, allowing you to quickly view the effects of your changes.” Flutter suits the design of SkaterMate because it supports all features such as; scrolling, navigation, icons and fonts. 
+(Flutter - Beautiful native apps in record time, 2020) [1]<p>
+  
+<h2 style=" 2px solid white; color:white;">Skills required</h2>
+<p>To develop a good functioning app there are many essential skills that are required. Design skills are needed to make sure the app is visually pleasing as well as effectively layed out in a way that is easily understandable and runs smoothly on high tech smartphones. Writing skills are needed because the entire content of the app must be written in a professional and understandable manner. To successfully market and advertise the app, as the creator I will also need to effectively convey the ideas  behind it and persuade an audience through the use of communication skills. 
+Another skill required is clean coding and it is very important to understand suitable code languages such as html5 or java. Data skills are also important, A well-designed database can result in a smoother and higher quality performing app. The development of these skills will be achievable through competing study in these specific IT areas. However other skills such as communication and writing will slowly but surely develop over time not only through introduction to IT but within the workplace. Due to the saturation within the app developing market, it is easily accessible to find and use the software needed to develop Skatermate.  
+(7 Must have skills to develop killer apps, 2020) [2] <p>
+
+<h2 style=" 2px solid white; color:white;">Outcome</h2>
+<p>If SkaterMate is successful, there will be many benefits specifically to the skateboard community worldwide. People that are new to skateboarding and want to learn will have an app to help them and have a friendly introduction to the intimidating skateboard community. Talented and experienced skateboarders will have a platform to get their skateboard content and tutorials out there. SkaterMate is also significant to the skating world as nothing similar has been created with the aim of helping the skateboarding community. It is aimed within a market that is often overlooked, therefore the success of the app will aid an overlooked community.<p>
+  
+
+  
 
   
 
