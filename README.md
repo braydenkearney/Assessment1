@@ -40,7 +40,15 @@
 <p style="font-family:courier; color:red;">Myers Briggs test:</p>
 
 <img src="IMAGES/myersTest.png" alt="test">
+
 <p style="font-family:courier; color:blue;">Online learning style test:</p>
+
+<img src="IMAGES/learning.png" alt="learn">
+
+<p style="font-family:courier; color:orange;">Online Big 5 personality test: </p>
+
+<img src="IMAGES/5.png" alt="five">
+
 
   
 
