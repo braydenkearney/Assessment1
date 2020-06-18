@@ -54,6 +54,12 @@
 <p>When looking at these results and reflecting on how they compare with working in a team I believe there could be some room for improvement. This is because on the personality tests I resulted in a more withdrawn introverted personality. Meaning I don’t enjoy being the center of attention. This may affect how I work in a group, for example I may voice my opinions over others in a large group scenario and therefore not get my ideas out. Although my results were introverted it also showed that I was genuinely interested in other people and engaging with them. This means I will have strong engagement when working with others in my team. <p>
   
 <p>I should take this into account when forming a team by better preparing myself for social group situations. I could make my work in a team better by opening up a little bit more and making sure to engage socially with all my team members, building relationships with them. Possibly finding other members that are more on the extroverted side to help synergise and bring out some more social engagement and interaction.<p>
+  
+
+<h1 style="border:2px solid White;">PROJECT IDEA</h1>
+
+<p style="color:blue;">overview:</p>
+
 
   
 
