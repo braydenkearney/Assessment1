@@ -57,11 +57,11 @@
   
 
 <h1 style="border:2px solid White;">PROJECT IDEA</h1>
-<h2 style=" 2px solid white; color white;">Overview:</h2>
+<h2 style=" 2px solid white; color:white;">Overview:</h2>
 
 <p>My project idea is a smartphone app designed for skateboarders called “skaterMate”. SkaterMate is a platform for skateboarders to enjoy skateboard content, share their own skateboard content, view skateboard tutorials and find help on a trick they have been trying to get. SkaterMate will also be a platform for helpful information on skate spots and skate parks. A section of the app will allow skateboarders to share their street spots they have found that are able to skate. Not only that, it will offer reviews, descriptions and when is the best time to be at designated skate parks. SkaterMate will also be a platform that skate companies can use to get local skateshops on the map or sell hardware dedicated to skateboarding.</p>
 
-<h2 style=" 2px solid white; color white;">Motivation:</h2>
+<h2 style=" 2px solid white; color:white;">Motivation:</h2>
 <p>My motivation behind this project is to offer a platform for like minded people, passionate about skateboarding. I wish to create a platform dedicated to skateboarders that want to progress in their craft. Skateboarding can be very intimidating when beginning but SkaterMate aims to help beginners and make learning easier. This could be useful to the skateboard community in many ways; helping the community grow, helping skateboarders progress and learn, getting our local skate shops advertised and helping talented skateboarders get recognized.<p>
 
 
