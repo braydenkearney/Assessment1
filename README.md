@@ -22,7 +22,7 @@
 
 <p>I expect to learn a very broad idea of what IT is and grasp a basic concept of some code language. I expect to be prepared and setup for my bachelor of IT which I will study at RMIT after my courses. I also expect to learn about potential jobs in the world of IT and even possibly discover what career path would interest me. </p>
 
-<h1 style="border:2px pink;">IDEAL JOB</h1>
+<h1 style="border:2px solid Pink;">IDEAL JOB</h1>
 
 <p>The job I found is an IT security specialist based where I live, which I found on Indeed.<p>
 
