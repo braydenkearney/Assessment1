@@ -37,7 +37,5 @@
 <p>I plan to obtain the skills needed by passing my current two courses Introduction to Programming and Introduction to IT. Then I plan to continue on my path towards obtaining my bachelor of IT. I also plan on doing a more indepth course focused on cyber security.<p>
 
 
-</body>
-</html>
 
 
