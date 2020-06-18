@@ -40,7 +40,7 @@
 <p style="font-family:courier;">Myers Briggs test:</p>
 
 <img src="IMAGES/myersTest.png" alt="test">
-<p style="font-family:courier;""color:blue;">Online learning style test:</p>
+<pstyle="font-family:courier color:blue;">Online learning style test:</p>
 
   
 
